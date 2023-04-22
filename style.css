@@ -1,22 +1,9 @@
-*{margin: 0%;
-padding: 0%;
-
+body{
+    background-image: linear-gradient(#ffa2ff, #FF0000);
+    color: black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
 }
-
-.cabecalho{
-background-color: darkcyan;
-color: white;
-display: flex;
-justify-content: space-around;
-padding: 24px 0;
+.Receita-de-Pão {
+    width: 25%;
 }
-
-.cabecalho-imagem{
-    width: 40%;
-
-}
-    .cabecalho-item{
-        display: inline-block;
-        margin: 0 16px;
-        font-size: 24px;
-    }
